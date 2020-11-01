@@ -1,0 +1,17 @@
+{
+    "name": "lopez/bickeshopv3",
+    "description": "Proyecto venta de bicicletas",
+    "type": "project",
+    "authors": [
+        {
+            "name": "jesusbalam",
+            "email": "71830105+jesusbalam@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "illuminate/database": "^8.11",
+        "illuminate/events": "^8.11",
+        "slim/slim": "4.*",
+        "slim/psr7": "^1.2"
+    }
+}
